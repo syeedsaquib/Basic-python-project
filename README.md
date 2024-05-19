@@ -1,2 +1,9 @@
 # Basic-python-project
-When I was learning python there are two project that i made (i) Gauessing gamr (ii) Random password generator
+---
+
+## Guessing number game
+!(screenshot)[https://github.com/syeedsaquib/Basic-python-project/blob/main/screenshot/guessing%20game%20screenshot.png]
+---
+
+## Random password generator
+!(screenshot)[https://github.com/syeedsaquib/Basic-python-project/blob/main/screenshot/password%20generator%20screenshot.png]
